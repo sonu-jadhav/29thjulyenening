@@ -1,0 +1,8 @@
+
+<suite name="mySuite">
+  <test thread-count="5" name="myTest">
+    <classes>
+      <class name="testNGstudy.TestNGClass2"/>
+    </classes>
+  </test> <!-- myTest -->
+</suite> <!-- mySuite -->
