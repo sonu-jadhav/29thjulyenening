@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[fb launching]]>
-    </line>
-    <line>
-      <![CDATA[insta launching]]>
-    </line>
-    <line>
-      <![CDATA[twitter launching]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-12-18T12:56:24 IST" name="Default suite" finished-at="2023-12-18T12:56:43 IST" duration-ms="18320">
+  <suite started-at="2024-01-14T13:05:05 IST" name="Default suite" finished-at="2024-01-14T13:05:13 IST" duration-ms="7589">
     <groups>
     </groups>
-    <test started-at="2023-12-18T12:56:24 IST" name="Default test" finished-at="2023-12-18T12:56:43 IST" duration-ms="18320">
-      <class name="testNGstudy.testNGClass3">
-        <test-method signature="fbLaunch()[pri:0, instance:testNGstudy.testNGClass3@3cebbb30]" started-at="2023-12-18T12:56:25 IST" name="fbLaunch" finished-at="2023-12-18T12:56:29 IST" duration-ms="4025" status="PASS">
+    <test started-at="2024-01-14T13:05:05 IST" name="Default test" finished-at="2024-01-14T13:05:13 IST" duration-ms="7589">
+      <class name="testNGstudy.NewTest">
+        <test-method signature="f()[pri:0, instance:testNGstudy.NewTest@23c30a20]" started-at="2024-01-14T13:05:05 IST" name="f" finished-at="2024-01-14T13:05:13 IST" duration-ms="7507" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[fb launching]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- fbLaunch -->
-        <test-method signature="instaLaunch()[pri:0, instance:testNGstudy.testNGClass3@3cebbb30]" started-at="2023-12-18T12:56:29 IST" name="instaLaunch" finished-at="2023-12-18T12:56:35 IST" duration-ms="6469" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[insta launching]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- instaLaunch -->
-        <test-method signature="twitterLaunch()[pri:0, instance:testNGstudy.testNGClass3@3cebbb30]" started-at="2023-12-18T12:56:35 IST" name="twitterLaunch" finished-at="2023-12-18T12:56:43 IST" duration-ms="7735" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[twitter launching]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- twitterLaunch -->
-      </class> <!-- testNGstudy.testNGClass3 -->
+        </test-method> <!-- f -->
+      </class> <!-- testNGstudy.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
